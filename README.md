@@ -3,7 +3,7 @@
 
 # 🚇 Transit Accessibility Analysis in New York City
 
-**PostGIS · pgRouting · OSMnx · GTFS · Kepler.gl** [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://bit.ly/3Oh2605)</button>
+**PostGIS · pgRouting · OSMnx · GTFS · Kepler.gl** [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/ojp7k7jdg3yuy94vtttrt/keplergl_va30g0k.json?rlkey=3mkud06uh30w4ry0coh4emred&dl=0)</button>
 
 ## Overview
 
@@ -62,8 +62,8 @@ Walking Network of New York City
 
 * Downloaded NYC walkable street network using OSMnx.
 * Reprojected to **EPSG:2263** (feet-based CRS).
-* Loaded into PostGIS and built routable topology.
-* Snapped subway entrances to nearest network vertices.
+* Loaded into PostGIS and built a routable topology.
+* Snapped subway entrances to the nearest network vertices.
 
 **Scripts:**
 `download_osm_data.py`, `load_osm_to_postgis.py`, `prepare_network.sql`
@@ -154,6 +154,13 @@ Transit Accessibility map
   <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/kepler.gl.png"/>
 </div> 
 ---
+
+3D Illustration
+<div>
+  <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit%203d.png"/>
+</div> 
+---
+
 
 ## Discussion
 
