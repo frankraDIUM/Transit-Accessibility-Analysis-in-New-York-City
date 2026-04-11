@@ -3,7 +3,18 @@
 
 # 🚇 Transit Accessibility Analysis in New York City
 
-**PostGIS · pgRouting · OSMnx · GTFS · Kepler.gl** [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/ojp7k7jdg3yuy94vtttrt/keplergl_va30g0k.json?rlkey=3mkud06uh30w4ry0coh4emred&dl=0)</button>
+**PostGIS · pgRouting · OSMnx · GTFS · Kepler.gl** Live Map: [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/ojp7k7jdg3yuy94vtttrt/keplergl_va30g0k.json?rlkey=3mkud06uh30w4ry0coh4emred&dl=0)</button>
+
+
+
+---
+Map Preview
+
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit3d.gif" />
+</p>
+
+---
 
 ## Overview
 
