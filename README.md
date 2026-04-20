@@ -27,7 +27,7 @@ The analysis integrates:
 * **U.S. Census TIGER/Line & ACS** demographics
 * **Kepler.gl** for interactive visualization
 
-📍 **Key outcome:** 674 NYC census tracts (≈29%) qualify as transit deserts under a 2,000-ft walking threshold.
+**Key outcome:** 674 NYC census tracts (≈29%) qualify as transit deserts under a 2,000-ft walking threshold.
 
 ---
 
